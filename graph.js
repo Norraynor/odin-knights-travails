@@ -46,4 +46,5 @@ function populateGraphArray(arr) {
 	});
 	return arr;
 }
-console.log(createGraph(4));
+// console.log(createGraph(4));
+const board = createGraph(8);
